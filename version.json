@@ -1,8 +1,9 @@
 {
-  "version": "2.4.0.0",
-  "note": "Cập nhật chức năng Auto update",
+  "version": "2.5.0.0",
+  "note": "Tự tạo file database khi chưa có",
   "url": "https://raw.githubusercontent.com/buitiencong/update_quanlydaythem/main/update.zip"
 }
+
 
 
 
