@@ -1,8 +1,9 @@
 {
-  "version": "2.7.3.2",
-  "note": "Sửa lỗi nhỏ khi xóa lớp và thêm Tag Info Class",
+  "version": "2.7.3.3",
+  "note": "Các trường bỏ trống sẽ không hiển thị trong thông tin lớp học",
   "url": "https://raw.githubusercontent.com/buitiencong/update_quanlydaythem/main/update.zip"
 }
+
 
 
 
